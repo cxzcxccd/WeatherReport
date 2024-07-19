@@ -6,5 +6,5 @@
 
 
 ## 运行界面
-![alt text](QQ_1721375061419.png)
+![Weather Report Image](https://github.com/cxzcxccd/WeatherReport/blob/main/WeatherSuccess/QQ_1721375061419.png)
 采用C++编程，借鉴大轮明王Qt的教程.
